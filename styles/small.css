@@ -1,0 +1,143 @@
+:root {
+    --bg-accent-color: #8a3838;
+    --bg-accent-secondary: #444;
+    --bg-primary-color: #e4e2e2;
+    --text-primary-color: #333;
+    --text-accent-color: #fff;
+    font-family: "Faculty Glyphic", sans-serif;
+}
+
+body {
+    background-color: var(--bg-primary-color);
+    color: var(--text-primary-color);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+#menuButton {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: var(--bg-accent-color);
+    border: none;
+    color: var(--text-accent-color);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#menuButton::before {
+    content: "↷";
+    transition: transform 1s ease;
+    display: inline-block;
+}
+
+
+
+#menuButton.open::before {
+    transform: rotate(540deg);
+}
+
+nav {
+    background-color: var(--bg-accent-color);
+    width: 100%;
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: grid-template-rows 0.3s ease-out;
+    overflow: hidden;
+    padding: 0;
+}
+
+
+
+nav.open {
+    grid-template-rows: 1fr;
+    align-items: center;
+    gap: 1rem;
+}
+
+
+
+nav ul {
+    background-color: var(--bg-accent-color);
+    margin: 0;
+    overflow: hidden;
+    list-style-type: none;
+}
+
+
+
+li {
+    margin: 0.5rem 0;
+}
+
+
+
+li a {
+    text-decoration: none;
+    color: var(--text-accent-color);
+}
+
+
+
+li a:hover {
+    font-weight: bold;
+}
+
+h1, h2, h3, p {
+    margin: 1rem;
+}
+
+header {
+    background-color: var(--bg-accent-color);
+    color: var(--text-accent-color);
+}
+
+main {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    align-items: center;
+}
+
+#pageTitle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: var(--text-accent-color);
+    padding: 0.5rem;
+    background-color: rgb(51, 51, 51, 80%);
+    border-radius: 10px;
+}
+
+#heroContainer {
+  max-height: 600px; /* Set your desired maximum height */
+  width: 100%;
+  overflow: hidden; /* This is the key: it hides overflowing content */
+  /* Optional: Set a width if you want to control horizontal cropping as well */
+  /* width: 300px; */
+}
+
+#heroImg {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    display: block;
+}
+
+.wayfind {
+    font-weight: bold;
+}
+
+footer {
+    background-color: var(--bg-accent-color);
+    color: var(--text-accent-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer a {
+    margin: 1rem 0;
+}

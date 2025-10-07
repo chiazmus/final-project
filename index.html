@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Andrew Burnah">
+    <meta name="description" content="A site for dungeon masters with useful tools for running an adventure!">
+    <meta property="og:title" content="Guild of Adventurers"/>
+    <meta property="og:description" content="A site for dungeon masters with useful tools for running an adventure!"/>
+    <meta property="og:image" content="https://chiazmus.github.io/wdd231/final/images/hero.jpg"/>
+    <meta property="og:url" content="https://chiazmus.github.io/wdd231/final/index.html"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Faculty+Glyphic&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link rel="stylesheet" href="styles/small.css">
+    <link rel="stylesheet" href="styles/larger.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <title>Home - Guild of Adventurers</title>
+</head>
+<body>
+    <header>
+        <h2>Guild of Adventurers</h2>
+        <nav id="navigation">
+            <button id="menuButton" aria-label="menu"></button>
+            <ul>
+                <li><a href="index.html" class="wayfind">Home</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1 id="pageTitle">Home - Guild of Adventurers</h1>
+        <div id="heroContainer">
+            <img src="images/hero.jpg" alt="hero image" id="heroImg" loading="lazy" width="1000" height="667">
+        </div>
+        <div id="purpose">
+            <h2>Welcome to the Guild of Adventurers</h2>
+            <p>The Guild of Adventurers, established in 1340 of the Second Age of Men by Sir Urithrye the Bold, is the place to come if you're looking for Adventure!</p>
+            <p>The Material Realm is a place filled with monsters, decrepit ruins of bygone ages, and the chance for any noble souls to make untold riches, if only they know where to go!</p>
+            <p>That's where the Guild of Adventurers can help!  Take a look below at some of our highlighted dungeons, or if you're feeling like a team player, you can join some parties looking for another adventurer!</p>
+        </div>
+    </main>
+    <footer>
+            <p>&copy;<span id="currentyear"></span> Guild of Adventurers™ </p>
+            <p id="lastModified"></p>
+    </footer>
+    <script src="scripts/date.js" type="module"></script>
+    <script src="scripts/navigation.js" type="module"></script>
+</body>
+</html>
