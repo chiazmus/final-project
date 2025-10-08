@@ -124,7 +124,7 @@ main {
     align-items: center;
     border-radius: 10px;
     background-color: var(--text-accent-color);
-    width: 80%;
+    width: 90%;
     height: 500px;
     margin: 1rem 0;
     padding: 0;
@@ -148,6 +148,7 @@ main {
     width: 80%;
     & > input{
         flex-grow: 1;
+        min-width: 4rem;
         margin-right: 0.5rem;
         min-height: 1.5rem;
     }
