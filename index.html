@@ -44,12 +44,62 @@
         <div id="widgit-container">
             <div id="monster-widgit" class="widgit">
                 <h2>Monsters</h2>
+                <div class="search-bar">
+                    <input type="text">
+                    <button class="search-button">Search</button>
+                </div>
+                <div class="results">
+                    <template id="monster-card-template">
+                        <h3 data-placeholder="name"></h3>
+                        <p><i><span data-placeholder="size"></span> <span data-placeholder="type"></span>, <span data-placeholder="alignment"></span></i></p>
+                        <div class="miniSection">
+                            <p><b>Armor Class:</b> <span data-placeholder="armorClass"></span></p>
+                            <p><b>Hit Points:</b> <span data-placeholder="hp"></span></p>
+                            <p><b>Speed:</b> <span data-placeholder="speed"></span></p>
+                        </div>
+                        <div class="miniSection">
+                            <ul>
+                                <li><b>STR:</b> <span data-placeholder="str"></span></li>
+                                <li><b>DEX:</b> <span data-placeholder="dex"></span></li>
+                                <li><b>CON:</b> <span data-placeholder="con"></span></li>
+                                <li><b>INT:</b> <span data-placeholder="int"></span></li>
+                                <li><b>WIS:</b> <span data-placeholder="wis"></span></li>
+                                <li><b>CHA:</b> <span data-placeholder="cha"></span></li>
+                            </ul>
+                        </div>
+                        <div class="miniSection">
+                            <h3>Abilities</h3>
+                            <p><b>Languages:</b> <span data-placeholder="languages"></span></p>
+                            <p><b>Challenge:</b> <span data-placeholder="challenge"></span></p>
+                        </div>
+                        <div class="miniSection" id="actions">
+                            <h3>Actions</h3>
+                        </div>
+                    </template>
+                </div>
             </div>
             <div id="spell-widgit" class="widgit">
                 <h2>Spells</h2>
+                <div class="search-bar">
+                    <input type="text">
+                    <button class="search-button">Search</button>
+                </div>
+                <div class="results">
+                    <!-- content will be fetched -->
+                </div>
             </div>
             <div id="encounter-widgit" class="widgit">
                 <h2>Encounters</h2>
+            </div>
+        </div>
+        <div id="dice-widgit" class="widgit">
+            <h2>Dice Roll</h2>
+            <div class="search-bar">
+                <input type="text">
+                <button class="search-button">Roll</button>                
+            </div>
+            <div class="results">
+                <!-- content will be fetched -->
             </div>
         </div>
     </main>
@@ -59,5 +109,7 @@
     </footer>
     <script src="scripts/date.js" type="module"></script>
     <script src="scripts/navigation.js" type="module"></script>
+    <script type="module" src="scripts/monsterSpellSearch.js"></script>
+    <script type="module" src="scripts/diceRoll.js"></script>
 </body>
 </html>

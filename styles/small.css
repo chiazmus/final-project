@@ -125,7 +125,7 @@ main {
     border-radius: 10px;
     background-color: var(--text-accent-color);
     width: 80%;
-    height: 300px;
+    height: 500px;
     margin: 1rem 0;
     padding: 0;
     overflow: hidden;
@@ -137,6 +137,54 @@ main {
     color: var(--text-accent-color);
     text-align: center;
     margin: 0;
+    padding: 0.5rem 0;
+}
+
+.search-bar {
+    display: flex;
+    margin: 0.5rem 0;
+    justify-content: space-between;
+    min-height: 1.5rem;
+    width: 80%;
+    & > input{
+        flex-grow: 1;
+        margin-right: 0.5rem;
+        min-height: 1.5rem;
+    }
+    & > button {
+        min-height: 1.5rem;
+    }
+}
+
+.results {
+    width: 80%;
+    flex-grow: 1;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 0.5rem 0;
+    overflow: scroll;
+
+    & > ul {
+        list-style: none;
+        justify-content: left;
+    }
+
+    & > ul li {
+        text-align: left;
+        margin: 0.5rem;
+        width: 90%;
+    }
+
+    #actions h4, #actions p {
+        margin: 2rem;
+    }
+}
+
+#dice-widgit .results {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 #widgit-container {

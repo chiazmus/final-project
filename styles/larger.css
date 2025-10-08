@@ -45,7 +45,7 @@
         margin: 0.5rem;
     }
 
-    .widgit {
+    #widgit-container .widgit {
         width: 100%;
         margin: 0;
     }
@@ -64,7 +64,7 @@
 
     #widgit-container {
         display: grid;
-        max-width: 90%;
+        max-width: 80%;
         margin: 1rem;
         gap: 1rem;
         grid-template-columns: 1fr 1fr; 
