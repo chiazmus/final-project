@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Andrew Burnah">
+    <meta name="description" content="A site for dungeon masters with useful tools for running an adventure!">
+    <meta property="og:title" content="Guild of Adventurers"/>
+    <meta property="og:description" content="A site for dungeon masters with useful tools for running an adventure!"/>
+    <meta property="og:image" content="https://chiazmus.github.io/wdd231/final/images/hero.jpg"/>
+    <meta property="og:url" content="https://chiazmus.github.io/wdd231/final/index.html"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Faculty+Glyphic&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link rel="stylesheet" href="styles/small.css">
+    <link rel="stylesheet" href="styles/larger.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <title>Home - Guild of Adventurers</title>
+</head>
+<body>
+    <header>
+        <h2><a href="index.html">Guild of Adventurers</a></h2>
+        <nav id="navigation">
+            <button id="menuButton" aria-label="menu"></button>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html" class="wayfind">About</a></li>
+                <li><a href="index.html">Encounters</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1 id="pageTitle">About - Guild of Adventurers</h1>
+        <div class="text-section first-section">
+            <h2>About the Guild of Adventurers</h2>
+            <p>There are a number of tools on the internet for dungeon masters to use.  However, I haven't been able to find a site that groups all of them together</p>
+            <p>in one easy to access place.  Thats why I decided to make this site.</p>
+            <p>This site is a collection of tools that I have gathered in order to help dungeon masters in preparing and running an adventure.</p>
+        </div>
+        <div class="text-section">
+            <h2>Tools</h2>
+            <p>Many of the tools I use rely on apis from other sites</p>
+            <p>In order to give the developers of those sites credit, they will be listed below.</p>
+            <ul>
+                <li><a href="https://www.dnd5eapi.co/">Monster Search</a></li>
+                <li><a href="https://www.dnd5eapi.co/">Spell Search</a></li>
+                <li><a href="https://rolz.org/help/api">Dice Roll Simulator</a></li>
+                <li><a href="https://dndapi.ashleysheridan.co.uk/#section-documentation">Encounter Generator</a></li>
+                <li><a href="https://dndapi.ashleysheridan.co.uk/#section-documentation">Encounter Tracker</a></li>
+            </ul>
+        </div>
+    </main>
+    <footer>
+            <p>&copy;<span id="currentyear"></span> Guild of Adventurers™ </p>
+            <p id="lastModified"></p>
+    </footer>
+    <script src="scripts/date.js" type="module"></script>
+    <script src="scripts/navigation.js" type="module"></script>
+</body>
+</html>

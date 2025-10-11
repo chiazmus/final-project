@@ -14,6 +14,10 @@ function formatName(text){
     return text.replace(/\s+/g, '-').toLowerCase();
 }
 
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 function addMonster(monster){
     const template = document.getElementById('monster-card-template');
     const clone = template.content.cloneNode(true);
@@ -49,6 +53,8 @@ function addMonster(monster){
     monsterResultBox.appendChild(clone);
     return true;
 }
+
+//Maybe I should use a template for this, but now its already made so I don't really want to. V
 
 function addSpell(spell){
     const title = document.createElement('h3');
@@ -97,30 +103,46 @@ function clearSpells(){
 }
 
 async function monsterSearch(){
+    monsterResultBox.classList.add('loading');
+    clearMonsters();
     const monsterName = formatName(monsterNameInput.value);
     const result = await searchMonster(monsterName);
+    const startTime = Date.now();  // This is to make sure the animation gets a chance to play
+
     if (result) {
-        clearMonsters();
+        const timePassed = Date.now() - startTime;
+        if (1000 - timePassed > 0) await sleep(1000);
         addMonster(result);
+        monsterResultBox.classList.remove('loading');
     } else {
+        const timePassed = Date.now() - startTime;
+        if (1000 - timePassed > 0) await sleep(1000);
         console.log('Monster not found.');
-        clearMonsters();
+        monsterResultBox.classList.remove('loading');
     }
 }
 
 async function spellSearch(){
+    spellResultBox.classList.add('loading');
+    clearSpells();
     const spellName = formatName(spellNameInput.value);
     const result = await searchSpells(spellName);
+    const startTime = Date.now();  // This is to make sure the animation gets a chance to play
+
     if (result) {
-        clearSpells();
+        const timePassed = Date.now() - startTime;
+        if (1000 - timePassed > 0) await sleep(1000);
         addSpell(result);
+        spellResultBox.classList.remove('loading');
     } else {
+        const timePassed = Date.now() - startTime;
+        if (1000 - timePassed > 0) await sleep(1000);
         console.log('Spell not found.')
-        clearSpells();
+        spellResultBox.classList.remove('loading');
     }
 }
 
-// add the events that can tell if the search button is pressed
+// search button/enter clicked V
 
 monsterSearchButton.addEventListener('click', monsterSearch);
 monsterNameInput.addEventListener('keyup', (event) => {

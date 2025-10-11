@@ -23,12 +23,14 @@ const clearResults = () => {
 };
 
 const rollDice = async () => {
+    clearResults();
+    resultBox.classList.add('loading');
     const output = await getDiceRoll(diceInput.value);
     if (output) {
-        clearResults();
+        resultBox.classList.remove('loading');
         writeResult(output);
     } else {
-        clearResults();
+        resultBox.classList.remove('loading');
         console.log('No such dice configuration exists...');
     }
 };
