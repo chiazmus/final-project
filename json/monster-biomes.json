@@ -1,0 +1,2642 @@
+[
+  {
+    "name": "Awakened shrub",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Baboon",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["forest", "grassland"]
+  },
+  {
+    "name": "Badger",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Bat",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["underdark", "forest", "hill"]
+  },
+  {
+    "name": "Cat",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Commoner",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Crab",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Crawling claw",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Deer",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["forest", "grassland"]
+  },
+  {
+    "name": "Eagle",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["mountain", "hill", "grassland"]
+  },
+  {
+    "name": "Frog",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["swamp", "forest"]
+  },
+  {
+    "name": "Giant fire beetle",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["underdark", "mountain"]
+  },
+  {
+    "name": "Goat",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["mountain", "hill"]
+  },
+  {
+    "name": "Hawk",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["grassland", "forest", "hill"]
+  },
+  {
+    "name": "Homunculus",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Hyena",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["grassland", "desert"]
+  },
+  {
+    "name": "Jackal",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["grassland", "desert"]
+  },
+  {
+    "name": "Lemure",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Lizard",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["desert", "forest", "swamp", "underdark"]
+  },
+  {
+    "name": "Myconid sprout",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Octopus",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Owl",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["forest", "arctic"]
+  },
+  {
+    "name": "Quipper",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Rat",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["urban", "swamp", "underdark"]
+  },
+  {
+    "name": "Raven",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["forest", "hill", "swamp", "urban"]
+  },
+  {
+    "name": "Scorpion",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["desert"]
+  },
+  {
+    "name": "Sea horse",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Shrieker",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Spider",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["forest", "underdark", "swamp"]
+  },
+  {
+    "name": "Stirge",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["swamp", "underdark", "forest"]
+  },
+  {
+    "name": "Tribal warrior",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["forest", "grassland", "hill", "desert", "arctic"]
+  },
+  {
+    "name": "Twig blight",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Vulture",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["desert", "grassland", "hill"]
+  },
+  {
+    "name": "Weasel",
+    "cr": "0",
+    "xp": 10,
+    "biomes": ["forest", "grassland"]
+  },
+  {
+    "name": "Bandit",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["urban", "forest", "hill", "desert"]
+  },
+  {
+    "name": "Blood hawk",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["grassland", "hill", "mountain"]
+  },
+  {
+    "name": "Camel",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["desert"]
+  },
+  {
+    "name": "Cultist",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Flumph",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Flying snake",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["forest", "grassland"]
+  },
+  {
+    "name": "Giant crab",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Giant rat",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["underdark", "urban", "swamp"]
+  },
+  {
+    "name": "Giant weasel",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["forest", "grassland"]
+  },
+  {
+    "name": "Guard",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Kobold",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["underdark", "mountain", "hill", "forest"]
+  },
+  {
+    "name": "Manes",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Mastiff",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["urban", "grassland"]
+  },
+  {
+    "name": "Merfolk",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Monodrone",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["urban", "underdark", "forest", "desert", "arctic"]
+  },
+  {
+    "name": "Mule",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["urban", "grassland", "hill", "mountain"]
+  },
+  {
+    "name": "Noble",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Poisonous snake",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["forest", "swamp", "desert", "grassland"]
+  },
+  {
+    "name": "Pony",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["urban", "grassland"]
+  },
+  {
+    "name": "Slaad tadpole",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["swamp"]
+  },
+  {
+    "name": "Swarm of bats",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["underdark", "forest", "swamp", "hill"]
+  },
+  {
+    "name": "Swarm of ravens",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["forest", "hill", "swamp", "urban"]
+  },
+  {
+    "name": "Troglodyte",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["underdark", "swamp"]
+  },
+  {
+    "name": "Winged kobold",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["underdark", "mountain", "hill", "forest"]
+  },
+  {
+    "name": "Wolf",
+    "cr": "1/8",
+    "xp": 25,
+    "biomes": ["forest", "grassland", "hill", "arctic"]
+  },
+  {
+    "name": "Aarakocra",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["mountain"]
+  },
+  {
+    "name": "Acolyte",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Axe beak",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["arctic", "grassland", "mountain"]
+  },
+  {
+    "name": "Blink dog",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Boar",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["forest", "grassland", "hill"]
+  },
+  {
+    "name": "Constrictor snake",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["forest", "swamp", "underwater"]
+  },
+  {
+    "name": "Draft horse",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["urban", "grassland"]
+  },
+  {
+    "name": "Dretch",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Drow",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Duodrone",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["urban", "underdark", "forest", "desert", "arctic"]
+  },
+  {
+    "name": "Elk",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["forest", "grassland", "hill"]
+  },
+  {
+    "name": "Flying sword",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Giant badger",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Giant bat",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["underdark", "forest"]
+  },
+  {
+    "name": "Giant centipede",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["underdark", "forest", "desert"]
+  },
+  {
+    "name": "Giant frog",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["swamp", "forest"]
+  },
+  {
+    "name": "Giant lizard",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["underdark", "desert", "forest", "swamp"]
+  },
+  {
+    "name": "Giant owl",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["forest", "arctic"]
+  },
+  {
+    "name": "Giant poisonous snake",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["forest", "swamp", "desert", "grassland"]
+  },
+  {
+    "name": "Giant wolf spider",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["forest", "desert", "grassland"]
+  },
+  {
+    "name": "Goblin",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["hill", "forest", "underdark"]
+  },
+  {
+    "name": "Grimlock",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Kenku",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Kuo-toa",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["underdark", "underwater"]
+  },
+  {
+    "name": "Mud mephit",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["swamp"]
+  },
+  {
+    "name": "Needle blight",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Panther",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Pixie",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Pseudodragon",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["forest", "urban"]
+  },
+  {
+    "name": "Pteranodon",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["grassland", "hill", "mountain"]
+  },
+  {
+    "name": "Riding horse",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["urban", "grassland"]
+  },
+  {
+    "name": "Skeleton",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["underdark", "urban", "desert", "swamp"]
+  },
+  {
+    "name": "Smoke mephit",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["mountain"]
+  },
+  {
+    "name": "Sprite",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Steam mephit",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["mountain", "underwater"]
+  },
+  {
+    "name": "Swarm of rats",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["underdark", "urban", "swamp"]
+  },
+  {
+    "name": "Violet fungus",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Worg",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["forest", "grassland", "hill"]
+  },
+  {
+    "name": "Zombie",
+    "cr": "1/4",
+    "xp": 50,
+    "biomes": ["underdark", "urban", "swamp", "desert"]
+  },
+  {
+    "name": "Ape",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Black bear",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Cockatrice",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["grassland", "hill"]
+  },
+  {
+    "name": "Crocodile",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["swamp", "underwater"]
+  },
+  {
+    "name": "Darkmantle",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Deep gnome",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Dust mephit",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["desert"]
+  },
+  {
+    "name": "Giant goat",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["mountain", "hill"]
+  },
+  {
+    "name": "Giant sea horse",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Giant wasp",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["forest", "grassland"]
+  },
+  {
+    "name": "Gnoll",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["grassland", "hill", "desert"]
+  },
+  {
+    "name": "Gray ooze",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Hobgoblin",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["mountain", "hill", "forest", "underdark"]
+  },
+  {
+    "name": "Ice mephit",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["arctic"]
+  },
+  {
+    "name": "Jackalwere",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["urban", "desert", "grassland"]
+  },
+  {
+    "name": "Lizardfolk",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["swamp"]
+  },
+  {
+    "name": "Magma mephit",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["mountain", "underdark"]
+  },
+  {
+    "name": "Myconid adult",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Orc",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["mountain", "hill", "underdark"]
+  },
+  {
+    "name": "Piercer",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Reef shark",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Rust monster",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Sahuagin",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Satyr",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Scout",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["forest", "grassland", "hill", "mountain"]
+  },
+  {
+    "name": "Shadow",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Swarm of insects",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["forest", "swamp", "desert", "grassland"]
+  },
+  {
+    "name": "Thug",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Vine blight",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Warhorse",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["urban", "grassland"]
+  },
+  {
+    "name": "Warhorse skeleton",
+    "cr": "1/2",
+    "xp": 100,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Animated armor",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Brass dragon wyrmling",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["desert"]
+  },
+  {
+    "name": "Brown bear",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Bugbear",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["forest", "hill", "underdark", "mountain"]
+  },
+  {
+    "name": "Copper dragon wyrmling",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["hill"]
+  },
+  {
+    "name": "Death dog",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["desert", "underdark"]
+  },
+  {
+    "name": "Dire wolf",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["forest", "hill", "mountain"]
+  },
+  {
+    "name": "Dryad",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Duergar",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Faerie dragon (young)",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Fire snake",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["underdark", "mountain"]
+  },
+  {
+    "name": "Ghoul",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Giant eagle",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["mountain", "hill"]
+  },
+  {
+    "name": "Giant hyena",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["grassland", "desert", "hill"]
+  },
+  {
+    "name": "Giant octopus",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Giant spider",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["forest", "underdark"]
+  },
+  {
+    "name": "Giant toad",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["swamp", "underdark"]
+  },
+  {
+    "name": "Giant vulture",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["desert", "grassland", "hill"]
+  },
+  {
+    "name": "Goblin boss",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["hill", "forest", "underdark"]
+  },
+  {
+    "name": "Half-ogre",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["hill", "mountain", "underdark"]
+  },
+  {
+    "name": "Harpy",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["hill", "mountain", "forest"]
+  },
+  {
+    "name": "Hippogriff",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["mountain", "hill"]
+  },
+  {
+    "name": "Imp",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Kuo-toa whip",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["underdark", "underwater"]
+  },
+  {
+    "name": "Lion",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["grassland"]
+  },
+  {
+    "name": "Quadrone",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["urban", "underdark", "forest", "desert", "arctic"]
+  },
+  {
+    "name": "Quaggoth spore servant",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Quasit",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Scarecrow",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["grassland"]
+  },
+  {
+    "name": "Specter",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["underdark", "urban", "swamp"]
+  },
+  {
+    "name": "Spy",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Swarm of quippers",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Thri-kreen",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["desert", "grassland"]
+  },
+  {
+    "name": "Tiger",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["forest", "grassland"]
+  },
+  {
+    "name": "Yuan-ti pureblood",
+    "cr": "1",
+    "xp": 200,
+    "biomes": ["forest", "swamp", "underdark", "urban"]
+  },
+  {
+    "name": "Allosaurus",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["grassland"]
+  },
+  {
+    "name": "Ankheg",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["grassland", "forest"]
+  },
+  {
+    "name": "Awakened tree",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Azer",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underdark", "mountain"]
+  },
+  {
+    "name": "Bandit captain",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["urban", "forest", "hill", "desert"]
+  },
+  {
+    "name": "Berserker",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["arctic", "forest", "hill", "mountain"]
+  },
+  {
+    "name": "Black dragon wyrmling",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["swamp"]
+  },
+  {
+    "name": "Bronze dragon wyrmling",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Carrion crawler",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Centaur",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["forest", "grassland"]
+  },
+  {
+    "name": "Cult fanatic",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Druid",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["forest", "swamp", "desert", "mountain", "arctic"]
+  },
+  {
+    "name": "Ettercap",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Faerie dragon (old)",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Gargoyle",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["urban", "underdark", "mountain"]
+  },
+  {
+    "name": "Gelatinous cube",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Ghast",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Giant boar",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["forest", "hill", "grassland"]
+  },
+  {
+    "name": "Giant constrictor snake",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["forest", "swamp", "underwater", "underdark"]
+  },
+  {
+    "name": "Giant elk",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["forest", "grassland", "hill"]
+  },
+  {
+    "name": "Gibbering mouther",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Githzerai monk",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Gnoll pack lord",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["grassland", "hill", "desert"]
+  },
+  {
+    "name": "Green dragon wyrmling",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Grick",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Griffon",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["mountain", "hill"]
+  },
+  {
+    "name": "Hunter shark",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Intellect devourer",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Lizardfolk shaman",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["swamp"]
+  },
+  {
+    "name": "Merrow",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underwater", "swamp"]
+  },
+  {
+    "name": "Mimic",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Minotaur skeleton",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Myconid sovereign",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Nothic",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Ochre jelly",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Ogre",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["hill", "mountain", "underdark"]
+  },
+  {
+    "name": "Ogre zombie",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underdark", "urban", "swamp"]
+  },
+  {
+    "name": "Orc Eye of Gruumsh",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["mountain", "hill", "underdark"]
+  },
+  {
+    "name": "Orog",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Pegasus",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["mountain", "forest"]
+  },
+  {
+    "name": "Pentadrone",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["urban", "underdark", "forest", "desert", "arctic"]
+  },
+  {
+    "name": "Peryton",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["mountain"]
+  },
+  {
+    "name": "Plesiosaurus",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Polar bear",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["arctic"]
+  },
+  {
+    "name": "Poltergeist (specter)",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Priest",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Quaggoth",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Rhinoceros",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["grassland"]
+  },
+  {
+    "name": "Rug of smothering",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Saber-toothed tiger",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["arctic", "mountain"]
+  },
+  {
+    "name": "Sahuagin priestess",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Sea hag",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underwater", "swamp"]
+  },
+  {
+    "name": "Silver dragon wyrmling",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["arctic", "mountain"]
+  },
+  {
+    "name": "Spined devil",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Swarm of poisonous snakes",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["forest", "swamp", "desert"]
+  },
+  {
+    "name": "Wererat",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "White dragon wyrmling",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["arctic"]
+  },
+  {
+    "name": "Will-o'-wisp",
+    "cr": "2",
+    "xp": 450,
+    "biomes": ["swamp", "forest"]
+  },
+  {
+    "name": "Ankylosaurus",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["grassland"]
+  },
+  {
+    "name": "Basilisk",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["underdark", "desert"]
+  },
+  {
+    "name": "Bearded devil",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Blue dragon wyrmling",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["desert"]
+  },
+  {
+    "name": "Bugbear chief",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["forest", "hill", "underdark", "mountain"]
+  },
+  {
+    "name": "Displacer beast",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["forest", "underdark"]
+  },
+  {
+    "name": "Doppelganger",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Giant scorpion",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["desert", "underdark"]
+  },
+  {
+    "name": "Githyanki warrior",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["urban", "underdark", "mountain"]
+  },
+  {
+    "name": "Gold dragon wyrmling",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["forest", "grassland", "mountain"]
+  },
+  {
+    "name": "Green hag",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["swamp", "forest"]
+  },
+  {
+    "name": "Grell",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Hell hound",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["underdark", "mountain"]
+  },
+  {
+    "name": "Hobgoblin captain",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["mountain", "hill", "forest", "underdark"]
+  },
+  {
+    "name": "Hook horror",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Killer whale",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Knight",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Kuo-toa monitor",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["underdark", "underwater"]
+  },
+  {
+    "name": "Manticore",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["hill", "mountain", "arctic", "desert"]
+  },
+  {
+    "name": "Minotaur",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Mummy",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["desert", "underdark"]
+  },
+  {
+    "name": "Nightmare",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Owlbear",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Phase spider",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["forest", "underdark"]
+  },
+  {
+    "name": "Quaggoth thonot",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Spectator",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Veteran",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Water weird",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["underwater", "underdark"]
+  },
+  {
+    "name": "Werewolf",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Wight",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["underdark", "swamp", "urban"]
+  },
+  {
+    "name": "Winter wolf",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["arctic"]
+  },
+  {
+    "name": "Yeti",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["arctic"]
+  },
+  {
+    "name": "Yuan-ti malison",
+    "cr": "3",
+    "xp": 700,
+    "biomes": ["forest", "swamp", "underdark"]
+  },
+  {
+    "name": "Banshee",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["forest", "swamp"]
+  },
+  {
+    "name": "Black pudding",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Bone naga",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["underdark", "desert"]
+  },
+  {
+    "name": "Chuul",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["underdark", "swamp", "underwater"]
+  },
+  {
+    "name": "Couatl",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Elephant",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["grassland"]
+  },
+  {
+    "name": "Ettin",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["hill", "mountain", "underdark"]
+  },
+  {
+    "name": "Flameskull",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Ghost",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["urban", "underdark", "swamp"]
+  },
+  {
+    "name": "Gnoll fang of Yeenoghu",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["grassland", "hill", "desert"]
+  },
+  {
+    "name": "Helmed horror",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Incubus",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Lamia",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["desert"]
+  },
+  {
+    "name": "Lizard king/queen",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["swamp"]
+  },
+  {
+    "name": "Orc war chief",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["mountain", "hill", "underdark"]
+  },
+  {
+    "name": "Red dragon wyrmling",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["mountain", "hill"]
+  },
+  {
+    "name": "Sea hag (in coven)",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["underwater", "swamp"]
+  },
+  {
+    "name": "Shadow demon",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Succubus",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Wereboar",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["forest", "hill"]
+  },
+  {
+    "name": "Weretiger",
+    "cr": "4",
+    "xp": 1100,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Air elemental",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["mountain", "desert", "arctic"]
+  },
+  {
+    "name": "Barbed devil",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Barlgura",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["forest", "underdark"]
+  },
+  {
+    "name": "Beholder zombie",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Bulette",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["grassland", "hill"]
+  },
+  {
+    "name": "Cambion",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Drow elite warrior",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Earth elemental",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["underdark", "mountain", "hill"]
+  },
+  {
+    "name": "Fire elemental",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["desert", "mountain", "underdark", "urban"]
+  },
+  {
+    "name": "Flesh golem",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Giant crocodile",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["swamp", "underwater"]
+  },
+  {
+    "name": "Giant shark",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Gladiator",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Gorgon",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["hill", "grassland", "underdark"]
+  },
+  {
+    "name": "Green hag (in coven)",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["swamp", "forest"]
+  },
+  {
+    "name": "Half-red dragon veteran",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["urban", "mountain", "hill"]
+  },
+  {
+    "name": "Hill giant",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["hill"]
+  },
+  {
+    "name": "Mezzoloth",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Night hag",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["swamp", "underdark", "urban"]
+  },
+  {
+    "name": "Otyugh",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["underdark", "swamp"]
+  },
+  {
+    "name": "Red slaad",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["forest", "swamp", "underdark"]
+  },
+  {
+    "name": "Revenant",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["urban", "swamp", "forest"]
+  },
+  {
+    "name": "Roper",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Sahuagin baron",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Salamander",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["mountain", "underdark"]
+  },
+  {
+    "name": "Shambling mound",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["swamp", "forest"]
+  },
+  {
+    "name": "Triceratops",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["grassland"]
+  },
+  {
+    "name": "Troll",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["mountain", "swamp", "underdark"]
+  },
+  {
+    "name": "Umber hulk",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Unicorn",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Vampire spawn",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Water elemental",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Werebear",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Wraith",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Xorn",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Young remorhaz",
+    "cr": "5",
+    "xp": 1800,
+    "biomes": ["arctic"]
+  },
+  {
+    "name": "Chasme",
+    "cr": "6",
+    "xp": 2300,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Chimera",
+    "cr": "6",
+    "xp": 2300,
+    "biomes": ["mountain", "hill"]
+  },
+  {
+    "name": "Cyclops",
+    "cr": "6",
+    "xp": 2300,
+    "biomes": ["hill", "underdark", "desert", "arctic"]
+  },
+  {
+    "name": "Drider",
+    "cr": "6",
+    "xp": 2300,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Galeb duhr",
+    "cr": "6",
+    "xp": 2300,
+    "biomes": ["mountain", "hill", "underdark"]
+  },
+  {
+    "name": "Githzerai zerth",
+    "cr": "6",
+    "xp": 2300,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Hobgoblin warlord",
+    "cr": "6",
+    "xp": 2300,
+    "biomes": ["mountain", "hill", "forest", "underdark"]
+  },
+  {
+    "name": "Invisible stalker",
+    "cr": "6",
+    "xp": 2300,
+    "biomes": ["urban", "forest", "desert"]
+  },
+  {
+    "name": "Kuo-toa archpriest",
+    "cr": "6",
+    "xp": 2300,
+    "biomes": ["underdark", "underwater"]
+  },
+  {
+    "name": "Mage",
+    "cr": "6",
+    "xp": 2300,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Mammoth",
+    "cr": "6",
+    "xp": 2300,
+    "biomes": ["arctic", "grassland"]
+  },
+  {
+    "name": "Medusa",
+    "cr": "6",
+    "xp": 2300,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Vrock",
+    "cr": "6",
+    "xp": 2300,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Wyvern",
+    "cr": "6",
+    "xp": 2300,
+    "biomes": ["mountain", "hill"]
+  },
+  {
+    "name": "Young brass dragon",
+    "cr": "6",
+    "xp": 2300,
+    "biomes": ["desert"]
+  },
+  {
+    "name": "Young white dragon",
+    "cr": "6",
+    "xp": 2300,
+    "biomes": ["arctic"]
+  },
+  {
+    "name": "Blue slaad",
+    "cr": "7",
+    "xp": 2900,
+    "biomes": ["forest", "swamp", "underdark"]
+  },
+  {
+    "name": "Drow mage",
+    "cr": "7",
+    "xp": 2900,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Giant ape",
+    "cr": "7",
+    "xp": 2900,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Grick alpha",
+    "cr": "7",
+    "xp": 2900,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Mind flayer",
+    "cr": "7",
+    "xp": 2900,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Night hag (in coven)",
+    "cr": "7",
+    "xp": 2900,
+    "biomes": ["swamp", "underdark", "urban"]
+  },
+  {
+    "name": "Oni",
+    "cr": "7",
+    "xp": 2900,
+    "biomes": ["urban", "forest"]
+  },
+  {
+    "name": "Shield guardian",
+    "cr": "7",
+    "xp": 2900,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Stone giant",
+    "cr": "7",
+    "xp": 2900,
+    "biomes": ["mountain"]
+  },
+  {
+    "name": "Young black dragon",
+    "cr": "7",
+    "xp": 2900,
+    "biomes": ["swamp"]
+  },
+  {
+    "name": "Young copper dragon",
+    "cr": "7",
+    "xp": 2900,
+    "biomes": ["hill"]
+  },
+  {
+    "name": "Yuan-ti abomination",
+    "cr": "7",
+    "xp": 2900,
+    "biomes": ["forest", "swamp", "underdark"]
+  },
+  {
+    "name": "Assassin",
+    "cr": "8",
+    "xp": 3900,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Chain devil",
+    "cr": "8",
+    "xp": 3900,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Cloaker",
+    "cr": "8",
+    "xp": 3900,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Drow priestess of Lolth",
+    "cr": "8",
+    "xp": 3900,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Fomorian",
+    "cr": "8",
+    "xp": 3900,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Frost giant",
+    "cr": "8",
+    "xp": 3900,
+    "biomes": ["arctic"]
+  },
+  {
+    "name": "Githyanki knight",
+    "cr": "8",
+    "xp": 3900,
+    "biomes": ["urban", "underdark", "mountain"]
+  },
+  {
+    "name": "Green slaad",
+    "cr": "8",
+    "xp": 3900,
+    "biomes": ["forest", "swamp"]
+  },
+  {
+    "name": "Hezrou",
+    "cr": "8",
+    "xp": 3900,
+    "biomes": ["swamp", "underdark"]
+  },
+  {
+    "name": "Hydra",
+    "cr": "8",
+    "xp": 3900,
+    "biomes": ["swamp", "underwater"]
+  },
+  {
+    "name": "Mind flayer arcanist",
+    "cr": "8",
+    "xp": 3900,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Spirit naga",
+    "cr": "8",
+    "xp": 3900,
+    "biomes": ["forest", "swamp", "underdark"]
+  },
+  {
+    "name": "Tyrannosaurus rex",
+    "cr": "8",
+    "xp": 3900,
+    "biomes": ["grassland", "forest"]
+  },
+  {
+    "name": "Young bronze dragon",
+    "cr": "8",
+    "xp": 3900,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Abominable yeti",
+    "cr": "9",
+    "xp": 5000,
+    "biomes": ["arctic"]
+  },
+  {
+    "name": "Bone devil",
+    "cr": "9",
+    "xp": 5000,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Clay golem",
+    "cr": "9",
+    "xp": 5000,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Cloud giant",
+    "cr": "9",
+    "xp": 5000,
+    "biomes": ["mountain"]
+  },
+  {
+    "name": "Fire giant",
+    "cr": "9",
+    "xp": 5000,
+    "biomes": ["mountain", "underdark"]
+  },
+  {
+    "name": "Glabrezu",
+    "cr": "9",
+    "xp": 5000,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Gray slaad",
+    "cr": "9",
+    "xp": 5000,
+    "biomes": ["forest", "swamp", "underdark"]
+  },
+  {
+    "name": "Nycaloth",
+    "cr": "9",
+    "xp": 5000,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Treant",
+    "cr": "9",
+    "xp": 5000,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Young blue dragon",
+    "cr": "9",
+    "xp": 5000,
+    "biomes": ["desert"]
+  },
+  {
+    "name": "Young silver dragon",
+    "cr": "9",
+    "xp": 5000,
+    "biomes": ["arctic", "mountain"]
+  },
+  {
+    "name": "Aboleth",
+    "cr": "10",
+    "xp": 5900,
+    "biomes": ["underdark", "underwater"]
+  },
+  {
+    "name": "Death slaad",
+    "cr": "10",
+    "xp": 5900,
+    "biomes": ["forest", "swamp", "underdark"]
+  },
+  {
+    "name": "Deva",
+    "cr": "10",
+    "xp": 5900,
+    "biomes": ["urban", "forest", "mountain"]
+  },
+  {
+    "name": "Guardian naga",
+    "cr": "10",
+    "xp": 5900,
+    "biomes": ["forest", "urban"]
+  },
+  {
+    "name": "Stone golem",
+    "cr": "10",
+    "xp": 5900,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Yochlol",
+    "cr": "10",
+    "xp": 5900,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Young gold dragon",
+    "cr": "10",
+    "xp": 5900,
+    "biomes": ["forest", "grassland", "mountain"]
+  },
+  {
+    "name": "Young red dragon",
+    "cr": "10",
+    "xp": 5900,
+    "biomes": ["mountain", "hill"]
+  },
+  {
+    "name": "Behir",
+    "cr": "11",
+    "xp": 7200,
+    "biomes": ["underdark", "mountain"]
+  },
+  {
+    "name": "Dao",
+    "cr": "11",
+    "xp": 7200,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Djinni",
+    "cr": "11",
+    "xp": 7200,
+    "biomes": ["desert", "urban"]
+  },
+  {
+    "name": "Efreeti",
+    "cr": "11",
+    "xp": 7200,
+    "biomes": ["desert", "mountain", "urban"]
+  },
+  {
+    "name": "Gynosphinx",
+    "cr": "11",
+    "xp": 7200,
+    "biomes": ["desert"]
+  },
+  {
+    "name": "Horned devil",
+    "cr": "11",
+    "xp": 7200,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Marid",
+    "cr": "11",
+    "xp": 7200,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Remorhaz",
+    "cr": "11",
+    "xp": 7200,
+    "biomes": ["arctic"]
+  },
+  {
+    "name": "Roc",
+    "cr": "11",
+    "xp": 7200,
+    "biomes": ["mountain", "arctic", "desert"]
+  },
+  {
+    "name": "Young green dragon",
+    "cr": "11",
+    "xp": 7200,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Arcanaloth",
+    "cr": "12",
+    "xp": 8400,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Archmage",
+    "cr": "12",
+    "xp": 8400,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Erinyes",
+    "cr": "12",
+    "xp": 8400,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Adult brass dragon",
+    "cr": "13",
+    "xp": 10000,
+    "biomes": ["desert"]
+  },
+  {
+    "name": "Adult white dragon",
+    "cr": "13",
+    "xp": 10000,
+    "biomes": ["arctic"]
+  },
+  {
+    "name": "Beholder (not in lair)",
+    "cr": "13",
+    "xp": 10000,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Nalfeshnee",
+    "cr": "13",
+    "xp": 10000,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Rakshasa",
+    "cr": "13",
+    "xp": 10000,
+    "biomes": ["urban"]
+  },
+  {
+    "name": "Storm giant",
+    "cr": "13",
+    "xp": 10000,
+    "biomes": ["mountain", "underwater"]
+  },
+  {
+    "name": "Ultroloth",
+    "cr": "13",
+    "xp": 10000,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Vampire",
+    "cr": "13",
+    "xp": 10000,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Young red shadow dragon",
+    "cr": "13",
+    "xp": 10000,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Adult black dragon",
+    "cr": "14",
+    "xp": 11500,
+    "biomes": ["swamp"]
+  },
+  {
+    "name": "Adult copper dragon",
+    "cr": "14",
+    "xp": 11500,
+    "biomes": ["hill"]
+  },
+  {
+    "name": "Beholder (in lair)",
+    "cr": "14",
+    "xp": 11500,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Death tyrant (not in lair)",
+    "cr": "14",
+    "xp": 11500,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Ice devil",
+    "cr": "14",
+    "xp": 11500,
+    "biomes": ["urban", "underdark", "arctic"]
+  },
+  {
+    "name": "Adult bronze dragon",
+    "cr": "15",
+    "xp": 13000,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Adult green dragon",
+    "cr": "15",
+    "xp": 13000,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Death tyrant (in lair)",
+    "cr": "15",
+    "xp": 13000,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Mummy lord (not in lair)",
+    "cr": "15",
+    "xp": 13000,
+    "biomes": ["desert", "underdark"]
+  },
+  {
+    "name": "Purple worm",
+    "cr": "15",
+    "xp": 13000,
+    "biomes": ["underdark"]
+  },
+  {
+    "name": "Vampire (spellcaster)",
+    "cr": "15",
+    "xp": 13000,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Vampire (warrior)",
+    "cr": "15",
+    "xp": 13000,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Adult blue dragon",
+    "cr": "16",
+    "xp": 15000,
+    "biomes": ["desert"]
+  },
+  {
+    "name": "Adult silver dragon",
+    "cr": "16",
+    "xp": 15000,
+    "biomes": ["arctic", "mountain"]
+  },
+  {
+    "name": "Iron golem",
+    "cr": "16",
+    "xp": 15000,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Marilith",
+    "cr": "16",
+    "xp": 15000,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Mummy lord (in lair)",
+    "cr": "16",
+    "xp": 15000,
+    "biomes": ["desert", "underdark"]
+  },
+  {
+    "name": "Planetar",
+    "cr": "16",
+    "xp": 15000,
+    "biomes": ["urban", "forest", "mountain", "desert", "arctic"]
+  },
+  {
+    "name": "Adult blue dracolich",
+    "cr": "17",
+    "xp": 18000,
+    "biomes": ["desert", "underdark"]
+  },
+  {
+    "name": "Adult gold dragon",
+    "cr": "17",
+    "xp": 18000,
+    "biomes": ["forest", "grassland", "mountain"]
+  },
+  {
+    "name": "Adult red dragon",
+    "cr": "17",
+    "xp": 18000,
+    "biomes": ["mountain", "hill"]
+  },
+  {
+    "name": "Androsphinx",
+    "cr": "17",
+    "xp": 18000,
+    "biomes": ["desert"]
+  },
+  {
+    "name": "Death knight",
+    "cr": "17",
+    "xp": 18000,
+    "biomes": ["urban", "underdark"]
+  },
+  {
+    "name": "Dragon turtle",
+    "cr": "17",
+    "xp": 18000,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Goristro",
+    "cr": "17",
+    "xp": 18000,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Demilich (not in lair)",
+    "cr": "18",
+    "xp": 20000,
+    "biomes": ["underdark", "desert"]
+  },
+  {
+    "name": "Balor",
+    "cr": "19",
+    "xp": 22000,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Ancient brass dragon",
+    "cr": "20",
+    "xp": 25000,
+    "biomes": ["desert"]
+  },
+  {
+    "name": "Ancient white dragon",
+    "cr": "20",
+    "xp": 25000,
+    "biomes": ["arctic"]
+  },
+  {
+    "name": "Demilich (in lair)",
+    "cr": "20",
+    "xp": 25000,
+    "biomes": ["underdark", "desert"]
+  },
+  {
+    "name": "Pit fiend",
+    "cr": "20",
+    "xp": 25000,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Ancient black dragon",
+    "cr": "21",
+    "xp": 33000,
+    "biomes": ["swamp"]
+  },
+  {
+    "name": "Ancient copper dragon",
+    "cr": "21",
+    "xp": 33000,
+    "biomes": ["hill"]
+  },
+  {
+    "name": "Lich (not in lair)",
+    "cr": "21",
+    "xp": 33000,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Solar",
+    "cr": "21",
+    "xp": 33000,
+    "biomes": ["urban", "forest", "mountain", "desert", "arctic"]
+  },
+  {
+    "name": "Ancient bronze dragon",
+    "cr": "22",
+    "xp": 41000,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Ancient green dragon",
+    "cr": "22",
+    "xp": 41000,
+    "biomes": ["forest"]
+  },
+  {
+    "name": "Lich (in lair)",
+    "cr": "22",
+    "xp": 41000,
+    "biomes": ["underdark", "urban"]
+  },
+  {
+    "name": "Ancient blue dragon",
+    "cr": "23",
+    "xp": 50000,
+    "biomes": ["desert"]
+  },
+  {
+    "name": "Ancient silver dragon",
+    "cr": "23",
+    "xp": 50000,
+    "biomes": ["arctic", "mountain"]
+  },
+  {
+    "name": "Empyrean",
+    "cr": "23",
+    "xp": 50000,
+    "biomes": ["mountain", "forest", "underwater", "arctic"]
+  },
+  {
+    "name": "Kraken",
+    "cr": "23",
+    "xp": 50000,
+    "biomes": ["underwater"]
+  },
+  {
+    "name": "Ancient gold dragon",
+    "cr": "24",
+    "xp": 62000,
+    "biomes": ["forest", "grassland", "mountain"]
+  },
+  {
+    "name": "Ancient red dragon",
+    "cr": "24",
+    "xp": 62000,
+    "biomes": ["mountain", "hill"]
+  },
+  {
+    "name": "Tarrasque",
+    "cr": "30",
+    "xp": 155000,
+    "biomes": ["urban", "grassland", "forest", "hill", "mountain", "desert", "swamp"]
+  }
+]

@@ -26,7 +26,7 @@
             <ul>
                 <li><a href="index.html" class="wayfind">Home</a></li>
                 <li><a href="about.html">About</a></li>
-                <li><a href="index.html">Encounters</a></li>
+                <li><a href="encounters.html">Encounters</a></li>
             </ul>
         </nav>
     </header>
@@ -88,8 +88,62 @@
                     <!-- content will be fetched -->
                 </div>
             </div>
-            <div id="encounter-widgit" class="widgit">
-                <h2>Encounters</h2>
+            <div id="random-encounter-widgit" class="widgit">
+                <!-- I might use this api instead https://github.com/hayleyashby7/DDEG_API?tab=readme-ov-file -->
+                <h2>Random Encounters</h2>
+                <div class="search-bar">
+                    <label><b>Biome:</b> <select name="Biome" id="biome-select">
+                        <option value="arctic">arctic</option>
+                        <option value="desert">desert</option>
+                        <option value="forest">forest</option>
+                        <option value="grassland">grassland</option>
+                        <option value="hill">hill</option>
+                        <option value="mountain">mountain</option>
+                        <option value="swamp">swamp</option>
+                        <option value="underdark">underdark</option>
+                        <option value="underwater">underwater</option>
+                        <option value="urban">urban</option>
+                    </select></label>
+                    <label><b>Level:</b>
+                        <select name="cr" id="level-select">
+                        <option value="0">0</option>
+                        <option value="1/8">1/8</option>
+                        <option value="1/4">1/4</option>
+                        <option value="1/2">1/2</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                        <option value="13">13</option>
+                        <option value="14">14</option>
+                        <option value="15">15</option>
+                        <option value="16">16</option>
+                        <option value="17">17</option>
+                        <option value="18">18</option>
+                        <option value="19">19</option>
+                        <option value="20">20</option>
+                        <option value="21">21</option>
+                        <option value="22">22</option>
+                        <option value="23">23</option>
+                        <option value="24">24</option>
+                        <option value="30">30</option>
+                        </select></label>
+                    <button class="search-button">Generate</button>
+                </div>
+                <div class="results">
+                    <template id='monsterCard'>
+                        <h4></h4>
+                        <p></p>
+                    </template>
+                </div>
             </div>
         </div>
         <div id="dice-widgit" class="widgit">
@@ -109,7 +163,9 @@
     </footer>
     <script src="scripts/date.js" type="module"></script>
     <script src="scripts/navigation.js" type="module"></script>
-    <script type="module" src="scripts/monsterSpellSearch.js"></script>
+    <script type="module" src="scripts/monsterSearch.js"></script>
+    <script type="module" src="scripts/spellSearch.js"></script>
     <script type="module" src="scripts/diceRoll.js"></script>
+    <script type="module" src="scripts/encounters.js"></script>
 </body>
 </html>

@@ -58,7 +58,7 @@
         grid-area: spell;
     }
 
-    #encounter-widgit {
+    #random-encounter-widgit {
         grid-area: encounter;
     }
 

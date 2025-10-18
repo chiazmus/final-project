@@ -1,5 +1,20 @@
 // This is the module that basically lets me use the apis.
 
+async function getListOfMonsters(){
+    try {
+        const response = await fetch(`https://www.dnd5eapi.co/api/2014/monsters/`);
+        if (response.ok){
+            const data = await response.json();
+            return data;
+        } else {
+            throw new Error('Failed to fetch monster data.');
+        }
+    } catch (error) {
+        console.error('Error: ', error);
+        return null;
+    }    
+}
+
 async function searchMonster(monsterName){
     try {
         const response = await fetch(`https://www.dnd5eapi.co/api/2014/monsters/${monsterName}`);
@@ -45,4 +60,4 @@ async function getDiceRoll(dice){
     }
 }
 
-export {searchMonster, searchSpells, getDiceRoll};
+export {searchMonster, searchSpells, getDiceRoll, getListOfMonsters};
